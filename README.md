@@ -1,1 +1,1 @@
-# children-shapes-game
+# children-shapes-game / in the making
